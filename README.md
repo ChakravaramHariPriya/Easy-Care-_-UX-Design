@@ -6,70 +6,70 @@ This project focuses on accessibility, simplicity, and real-world usability, mak
 
 🎯 Project Objective
 
-Provide a centralized platform for elder care
+* Provide a centralized platform for elder care
 
-Improve communication between elders, caregivers, and family
+* Improve communication between elders, caregivers, and family
 
-Ensure quick emergency response and continuous monitoring
+* Ensure quick emergency response and continuous monitoring
 
-Design an elder-friendly interface with minimal cognitive load
+* Design an elder-friendly interface with minimal cognitive load
 
 👥 User Roles
-Elder
+ELDER
 
-Simple home dashboard
+* Simple home dashboard
 
-Medication reminders
+* Medication reminders
 
-Health metrics overview
+* Health metrics overview
 
-One-tap emergency (SOS) button
+* One-tap emergency (SOS) button
 
-Quick-call caregiver option
+* Quick-call caregiver option
 
-Caregiver
+CARE GIVER
 
-Dashboard to monitor assigned elders
+* Dashboard to monitor assigned elders
 
-Task and schedule management
+* Task and schedule management
 
-Emergency alerts and incident tracking
+* Emergency alerts and incident tracking
 
-Health logs and communication hub
+* Health logs and communication hub
 
-Family Member
+FAMILY MEMBER
 
-Link elders using ID or QR code
+* Link elders using ID or QR code
 
-View elder health and activity status
+* View elder health and activity status
 
-Receive notifications and emergency alerts
+* Receive notifications and emergency alerts
 
-Communicate with caregivers
+* Communicate with caregivers
 
 🎨 Design & UX Highlights
 
-Large typography for readability
+* Large typography for readability
 
-High-contrast color scheme
+* High-contrast color scheme
 
-Clear icons and minimal text
+* Clear icons and minimal text
 
-Simple navigation and structured layouts
+* Simple navigation and structured layouts
 
-Designed specifically for elderly accessibility
+* Designed specifically for elderly accessibility
 
 🧪 Usability Testing
 
 The prototype was evaluated using key UX metrics:
 
-High task completion rate
+* High task completion rate
 
-Very low error rate
+* Very low error rate
 
-Strong usability and learnability
+* Strong usability and learnability
 
-Positive user satisfaction feedback
+* Positive user satisfaction feedback
 
 These results validate the effectiveness and clarity of the design.
 
@@ -83,10 +83,10 @@ Figma – UI/UX Design & Interactive Prototyping
 
 🚀 Future Scope
 
-Backend integration for real-time data
+* Backend integration for real-time data
 
-IoT-based health monitoring
+* IoT-based health monitoring
 
-AI-based health alerts and predictions
+* AI-based health alerts and predictions
 
-Mobile app development (Android/iOS)
+* Mobile app development (Android/iOS)
